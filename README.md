@@ -1,11 +1,15 @@
 ### Hi there 👋
 
+Voila! I'm Bohao Su! I'm currently pursuing a Master degree of Science in Urban Spatial Science at University College London!
+
+
+
 <!--
 **BohaoSuCC/BohaoSuCC** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-Hi! I'm Bohao Su! I'm currently pursuing a Master degree of Science in Urban Spatial Science at University College London!
+
 
 
 - 🔭 I’m currently working on ...
