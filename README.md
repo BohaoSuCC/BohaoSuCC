@@ -5,6 +5,9 @@
 
 Here are some ideas to get you started:
 
+Hi! I'm Bohao Su! I'm currently pursuing a Master degree of Science in Urban Spatial Science at University College London!
+
+
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
