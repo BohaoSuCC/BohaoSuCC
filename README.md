@@ -1,7 +1,8 @@
-<img src="header.png" width="500" />
+<img src="header.png" width="300" />
 
-
-Currently pursuing a Master's degree of Science in Urban Spatial Science at <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="30"/> <b>University College London!
+<p>From <b>Nanjing, China</b>. Bachelor degree of Urban and Rural Planning in <img src="[https://www.njfu.edu.cn/DFS//template/2047//images/t_logo.png](https://www.njfu.edu.cn/DFS//template/2047//images/t_logo.png)" width="40"/>.
+<p>Urban Planner in ECADI<> for <b>2 years</b>
+<p>Currently pursuing a Master's degree of Science in Urban Spatial Science at <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="30"/> <b>University College London!
 <img src="https://img.shields.io/badge/Python-SpencerWoo-da282a" width="30" />
 
 
