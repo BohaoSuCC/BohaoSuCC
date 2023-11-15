@@ -1,6 +1,7 @@
-### Hi there 👋
+<img src="header.png" width="500" />
 
-Voila! I'm Bohao Su! Currently pursuing a Master's degree of Science in Urban Spatial Science at <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="15"/> <b>University College London!
+
+Currently pursuing a Master's degree of Science in Urban Spatial Science at <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="30"/> <b>University College London!
 
 
 
