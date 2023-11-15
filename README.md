@@ -1,8 +1,11 @@
 <img src="header.png" width="300" />
 
-<p>From <b>Nanjing, China</b>. Bachelor degree of Urban and Rural Planning in <img src="[https://www.njfu.edu.cn/DFS//template/2047//images/t_logo.png](https://www.njfu.edu.cn/DFS//template/2047//images/t_logo.png)" width="40"/>.
-<p>Urban Planner in ECADI<> for <b>2 years</b>
-<p>Currently pursuing a Master's degree of Science in Urban Spatial Science at <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="30"/> <b>University College London!
+<p>From <b>Nanjing, China</b>. Bachelor degree of Urban and Rural Planning in <b>NFJU</b> <a href="http://njfu.edu.cn">
+    <img src="https://upload.wikimedia.org/wikipedia/zh/1/19/Nanjing_Forestry_University_badge.svg" width="40" alt="NFJU Badge">
+</a>
+</p>
+<p>Urban Planner in <b>ECADI</b><> for 2 years
+<p>Currently pursuing a Master's degree of Science in Urban Spatial Science at <b>University College London!</b> <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="35"/>
 <img src="https://img.shields.io/badge/Python-SpencerWoo-da282a" width="30" />
 
 
