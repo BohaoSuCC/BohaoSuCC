@@ -2,6 +2,9 @@
 
 
 Currently pursuing a Master's degree of Science in Urban Spatial Science at <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="30"/> <b>University College London!
+<img src="https://img.shields.io/badge/Python-SpencerWoo-da282a" width="30" />
+
+
 
 
 
