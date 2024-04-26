@@ -8,9 +8,9 @@
     <img src="images.png" width="45" alt="ECADI Badge"></a> for 2 years</p>
 <p>Currently pursuing a Master's degree of Science in Urban Spatial Science at <b>University College London!</b> <a href="https://www.ucl.ac.uk/bartlett/casa/bartlett-centre-advanced-spatial-analysis"> <img src="https://i0.wp.com/www.interdisciplinaryitaly.org/wp-content/uploads/2016/01/ucl-logo.png" width="35"/></a>
 
-<!--
-<p>Here is my <b> <a href="https://BohaoSuCC.github.io/" target="_blank">Portfolio Homepage</a></b><p>
--->
+
+<p>Here is my <b> <a href="https://BohaoSuCC.github.io/" target="_blank"> Homepage</a></b><p>
+
 
 
 <!--
